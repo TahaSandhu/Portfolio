@@ -78,7 +78,9 @@ z-index: 1;
 
 .i-right>:nth-child(3){
     transform: scale(1.5);
-    left: 28%;
+    left: 23%;
+    height: 386px;
+    width: 243px;
    
 }
 
